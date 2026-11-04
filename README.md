@@ -8,7 +8,7 @@ Bu layihənin məqsədi müştəri davranışlarını, alış kanallarını, mə
 
 **[▶ Tableau Public-də Marketing & Customer Analytics dashboardunu aç](https://public.tableau.com/app/profile/aysel.m.mm.dli/viz/MarketingCustomerAnalytics_17937073779890/01_Executive_Overview)**
 
-GitHub mənbə faylları: [Marketing-Customer-Analytics repository](https://github.com/ayselmmldi/Marketing-Customer-Analytics).
+GitHub mənbə faylları: [Marketing-Customer-Analytics repository](https://github.com/ayselmmdli/Marketing-Customer-Analytics).
 
 ## Layihəyə ümumi baxış
 
